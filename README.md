@@ -1,0 +1,1 @@
+This project is a clone of the **Zerodha** . Zerodha is India’s largest stock brokerage platform, known for its simple UI and commission-free trading model. The goal of this project was to practice web development skills by recreating the clean and minimal design of Zerodha’s homepage.
